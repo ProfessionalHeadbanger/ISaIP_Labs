@@ -1,4 +1,4 @@
-// Âàðèàíò 4
+// Ã‚Ã Ã°Ã¨Ã Ã­Ã² 4
 // key = EARTH
 
 #include <iostream>
@@ -20,7 +20,7 @@ public:
 
             if (isalpha(letter))
             {
-                char encryptedChar = (letter + keyLetter - 2 * 'A') % 26 + 'A';
+                char encryptedChar = (letter + keyLetter - 2 * 'A') % capacity + 'A';
                 encryptedText += encryptedChar;
             }
             else
@@ -41,7 +41,7 @@ public:
 
             if (isalpha(letter))
             {
-                char decryptedChar = (letter + 26 - keyLetter) % 26 + 'A';
+                char decryptedChar = (letter + capacity - keyLetter) % capacity + 'A';
                 decryptedText += decryptedChar;
             }
             else
@@ -62,16 +62,16 @@ int main()
     SetConsoleOutputCP(1251);
     int capacity = 26;
     std::string text, key;
-    std::cout << "Ââåäèòå òåêñò äëÿ øèôðîâàíèÿ: ";
+    std::cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã²Ã¥ÃªÃ±Ã² Ã¤Ã«Ã¿ Ã¸Ã¨Ã´Ã°Ã®Ã¢Ã Ã­Ã¨Ã¿: ";
     std::getline(std::cin, text);
-    std::cout << "Ââåäèòå êëþ÷: ";
+    std::cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ ÃªÃ«Ã¾Ã·: ";
     std::getline(std::cin, key);
 
     VigenereCipher cipher(capacity, key);
 
     std::string encryptedText = cipher.encrypt(text);
-    std::cout << "Çàøèôðîâàííûé òåêñò: " << encryptedText << std::endl;
+    std::cout << "Ã‡Ã Ã¸Ã¨Ã´Ã°Ã®Ã¢Ã Ã­Ã­Ã»Ã© Ã²Ã¥ÃªÃ±Ã²: " << encryptedText << std::endl;
 
     std::string decryptedText = cipher.decrypt(encryptedText);
-    std::cout << "Ðàñøèôðîâàííûé òåêñò: " << decryptedText << std::endl;
+    std::cout << "ÃÃ Ã±Ã¸Ã¨Ã´Ã°Ã®Ã¢Ã Ã­Ã­Ã»Ã© Ã²Ã¥ÃªÃ±Ã²: " << decryptedText << std::endl;
 }

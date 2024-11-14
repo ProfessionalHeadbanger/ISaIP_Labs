@@ -1,0 +1,17 @@
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\bin\Debug\net8.0-windows\ISaIP_Lab6.exe
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\bin\Debug\net8.0-windows\ISaIP_Lab6.deps.json
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\bin\Debug\net8.0-windows\ISaIP_Lab6.runtimeconfig.json
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\bin\Debug\net8.0-windows\ISaIP_Lab6.dll
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\bin\Debug\net8.0-windows\ISaIP_Lab6.pdb
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.Form1.resources
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.csproj.GenerateResource.cache
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.AssemblyInfoInputs.cache
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.AssemblyInfo.cs
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.dll
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\refint\ISaIP_Lab6.dll
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.pdb
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.genruntimeconfig.cache
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ref\ISaIP_Lab6.dll
+C:\Users\nices\source\repos\ISaIP_Lab6\ISaIP_Lab6\obj\Debug\net8.0-windows\ISaIP_Lab6.LoginDialog.resources
